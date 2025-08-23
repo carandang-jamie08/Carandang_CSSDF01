@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4C8e9Zcg7Vc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TEMP.AzureAD.003\\Documents\\CARANDANG_CS2_OOP\\S02\\ACTIVITY\\A01_Calculator\\A01_Calculator\\A01_Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TEMP.AzureAD.003\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.8\\system.configuration.configurationmanager.9.0.8.nupkg.sha512",
+    "C:\\Users\\TEMP.AzureAD.003\\.nuget\\packages\\system.data.oledb\\9.0.8\\system.data.oledb.9.0.8.nupkg.sha512",
+    "C:\\Users\\TEMP.AzureAD.003\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.8\\system.diagnostics.eventlog.9.0.8.nupkg.sha512",
+    "C:\\Users\\TEMP.AzureAD.003\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.8\\system.diagnostics.performancecounter.9.0.8.nupkg.sha512",
+    "C:\\Users\\TEMP.AzureAD.003\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.8\\system.security.cryptography.protecteddata.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

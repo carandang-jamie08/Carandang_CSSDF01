@@ -1,0 +1,16 @@
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\bin\Debug\net8.0-windows\A01_Calculator.exe
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\bin\Debug\net8.0-windows\A01_Calculator.deps.json
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\bin\Debug\net8.0-windows\A01_Calculator.runtimeconfig.json
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\bin\Debug\net8.0-windows\A01_Calculator.dll
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\bin\Debug\net8.0-windows\A01_Calculator.pdb
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\obj\Debug\net8.0-windows\A01_Calculator.Calculator.resources
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\obj\Debug\net8.0-windows\A01_Calculator.csproj.GenerateResource.cache
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\obj\Debug\net8.0-windows\A01_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\obj\Debug\net8.0-windows\A01_Calculator.AssemblyInfoInputs.cache
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\obj\Debug\net8.0-windows\A01_Calculator.AssemblyInfo.cs
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\obj\Debug\net8.0-windows\A01_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\obj\Debug\net8.0-windows\A01_Calculator.dll
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\obj\Debug\net8.0-windows\refint\A01_Calculator.dll
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\obj\Debug\net8.0-windows\A01_Calculator.pdb
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\obj\Debug\net8.0-windows\A01_Calculator.genruntimeconfig.cache
+C:\Users\TEMP.AzureAD.003\Documents\CARANDANG_CS2_OOP\S02\ACTIVITY\A01_Calculator\A01_Calculator\obj\Debug\net8.0-windows\ref\A01_Calculator.dll
