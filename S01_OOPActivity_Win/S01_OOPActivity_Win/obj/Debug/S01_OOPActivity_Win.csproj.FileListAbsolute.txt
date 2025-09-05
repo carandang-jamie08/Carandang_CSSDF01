@@ -1,0 +1,10 @@
+C:\Users\RhianJaredBoncajes\Documents\Boncajes-CS2_OOP\S01\activity\S01_OOPActivity_Win\S01_OOPActivity_Win\bin\Debug\S01_OOPActivity_Win.exe.config
+C:\Users\RhianJaredBoncajes\Documents\Boncajes-CS2_OOP\S01\activity\S01_OOPActivity_Win\S01_OOPActivity_Win\bin\Debug\S01_OOPActivity_Win.exe
+C:\Users\RhianJaredBoncajes\Documents\Boncajes-CS2_OOP\S01\activity\S01_OOPActivity_Win\S01_OOPActivity_Win\bin\Debug\S01_OOPActivity_Win.pdb
+C:\Users\RhianJaredBoncajes\Documents\Boncajes-CS2_OOP\S01\activity\S01_OOPActivity_Win\S01_OOPActivity_Win\obj\Debug\S01_OOPActivity_Win.csproj.AssemblyReference.cache
+C:\Users\RhianJaredBoncajes\Documents\Boncajes-CS2_OOP\S01\activity\S01_OOPActivity_Win\S01_OOPActivity_Win\obj\Debug\S01_OOPActivity_Win.Form1.resources
+C:\Users\RhianJaredBoncajes\Documents\Boncajes-CS2_OOP\S01\activity\S01_OOPActivity_Win\S01_OOPActivity_Win\obj\Debug\S01_OOPActivity_Win.Properties.Resources.resources
+C:\Users\RhianJaredBoncajes\Documents\Boncajes-CS2_OOP\S01\activity\S01_OOPActivity_Win\S01_OOPActivity_Win\obj\Debug\S01_OOPActivity_Win.csproj.GenerateResource.cache
+C:\Users\RhianJaredBoncajes\Documents\Boncajes-CS2_OOP\S01\activity\S01_OOPActivity_Win\S01_OOPActivity_Win\obj\Debug\S01_OOPActivity_Win.csproj.CoreCompileInputs.cache
+C:\Users\RhianJaredBoncajes\Documents\Boncajes-CS2_OOP\S01\activity\S01_OOPActivity_Win\S01_OOPActivity_Win\obj\Debug\S01_OOPActivity_Win.exe
+C:\Users\RhianJaredBoncajes\Documents\Boncajes-CS2_OOP\S01\activity\S01_OOPActivity_Win\S01_OOPActivity_Win\obj\Debug\S01_OOPActivity_Win.pdb
